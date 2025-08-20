@@ -3,8 +3,9 @@
 - **Correo:** sotoikeralejandro@gmail.com
 
 ### Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
+- p001_HolaMundo
+- p002_AreaCirculo
+- p003_AreaTriangulo
+- p004_PagoTrabajador
 
 ### Actividad 2
