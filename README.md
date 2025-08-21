@@ -9,3 +9,8 @@
 - p004_PagoTrabajador
 
 ### Actividad 2
+- p005_OperacionesMatematicas
+- p006_PromedioCalificaciones
+- p007_OperadoresAsignacion
+- p008_FuncionesTrigonometricas
+- p009_DividirEnCifras
