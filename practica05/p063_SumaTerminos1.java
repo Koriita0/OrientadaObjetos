@@ -9,14 +9,14 @@ public class p063_SumaTerminos1 {
         int n = sc.nextInt();
 
         double suma = 0.0;
-        StringBuilder secuencia = new StringBuilder();
+        String secuencia = "";
 
         for (int i = 1; i <= n; i++) {
             suma += 1.0 / i;
             if (i == 1) {
-                secuencia.append("1");
+                secuencia = "1";
             } else {
-                secuencia.append("+1/").append(i);
+                secuencia += "+1/" + i;
             }
         }
 
